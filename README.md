@@ -2,7 +2,7 @@
 
 Evidence-first resume tailoring for people who want stronger applications without inventing credentials.
 
-[Live app](https://resume-automator-frontend.vercel.app/) · [Backend API](https://github.com/adityaguptaaaa/ResumeAutomator-Backend/tree/main) · [Roadmap](https://github.com/adity982/ResumeAutomator-Frontend/blob/main/ROADMAP.md)
+[Live app](https://resume-automator-frontend.vercel.app/) · [Backend API](https://github.com/adityaguptaaaa/ResumeAutomator-Backend/tree/main) · 
 
 ## Why this project exists
 
@@ -56,13 +56,6 @@ npm run check
 
 This runs linting, type-checking, tests, and a production build.
 
-## Repository map
-
-- `src/components/Workbench.tsx`: upload, analysis, tailoring, exports
-- `src/components/EvidenceVault.tsx`: verified evidence management
-- `src/components/ApplicationBoard.tsx`: application tracking
-- `src/components/InterviewCoach.tsx`: interview practice
-- `src/components/AnalyticsDashboard.tsx`: funnel metrics
 
 ## Related repository
 
