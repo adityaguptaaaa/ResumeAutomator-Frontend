@@ -2,7 +2,7 @@
 
 Evidence-first resume tailoring for people who want stronger applications without inventing credentials.
 
-[Live app](https://resume-automator-frontend.vercel.app/) · [Backend API](https://github.com/adity982/ResumeAutomator-Backend) · [Roadmap](https://github.com/adity982/ResumeAutomator-Frontend/blob/main/ROADMAP.md)
+[Live app](https://resume-automator-frontend.vercel.app/) · [Backend API](https://github.com/adityaguptaaaa/ResumeAutomator-Backend/tree/main) · [Roadmap](https://github.com/adity982/ResumeAutomator-Frontend/blob/main/ROADMAP.md)
 
 ## Why this project exists
 
