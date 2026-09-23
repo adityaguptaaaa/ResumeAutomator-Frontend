@@ -66,4 +66,4 @@ This runs linting, type-checking, tests, and a production build.
 
 ## Related repository
 
-The FastAPI backend lives in [ResumeAutomator-Backend](https://github.com/adity982/ResumeAutomator-Backend).
+The FastAPI backend lives in [ResumeAutomator-Backend](https://github.com/adityaguptaaaa/ResumeAutomator-Backend/tree/main).
